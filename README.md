@@ -16,8 +16,8 @@ A modern, responsive admin dashboard built with **React**, **Redux Toolkit**, **
 - 🔔 Toast Notifications for Success/Error Feedback
 - 🖼️ Product Slider for showcasing latest products
 # 1. Clone the repository
-git clone https://github.com/sholeh-khalkhali42/Admin-Dashboard.git
-cd Admin-Dashboard
+git clone https://github.com/sholeh-khalkhali42/ADMIN--DASHBOARD.git
+cd ADMIN--DASHBOARD
 
 # 2. Install dependencies
 npm install
