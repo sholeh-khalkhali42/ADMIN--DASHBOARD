@@ -1,6 +1,6 @@
 # 🛠️ Admin Dashboard
 
-A modern, responsive admin dashboard built with **React**, **Redux Toolkit**, **React Router**, and **Bootstrap**. The project includes full **JWT authentication** and **CRUD operations** for managing users and products using the [DummyJSON API](https://dummyjson.com/).
+A modern, responsive admin dashboard built with **React**, **Redux Toolkit**, **React Router**, and **Bootstrap**. The project includes full **JWT authentication** and **CRUD operations** products using the [DummyJSON API](https://dummyjson.com/).
 
 ---
 
